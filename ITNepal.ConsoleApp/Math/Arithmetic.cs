@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ITNepal.ConsoleApp.Math
 {
-    internal class Arithmetic
+    public class Arithmetic
     {
     }
 }
